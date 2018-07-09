@@ -15,7 +15,7 @@ README.mdの書き方すらわからないクソザコナメクジから機械�
 また海外のマッチョなおじさんたちがしているように、このREADME.mdにもカテゴリ分けされた論文一覧を追加したいです。  
   
 # 論文のまとめ方
-論文の読み方についてはこちらにまとめています：　[/how_to_read_a_paper.md](https://github.com/yuuy-git/papers/how_to_read_a_paper.md)  
+論文の読み方についてはこちらにまとめています：　[/how_to_read_a_paper.md](https://github.com/yuuy-git/papers/blob/master/how_to_read_a_paper.md)  
 the first passではAbstract, Introduction, Conclusion + headings of sections & sub-sectionsを読み、数式にも目を通します。  
 その上で以下の5つの質問に答えられる状態になるのが目標です。
 
