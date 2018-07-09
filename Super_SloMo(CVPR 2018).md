@@ -14,7 +14,7 @@ VIDEO INTERPOLATION
 * 既存研究での取り組み１  
 出力としてsingle frameを予測するものが多い。  
  multipleに適応するときの問題点１　パラレルに扱えないから遅い  
- multipleに適応するときの問題点１　$\begin{eqnarray} 2^{i}-1 \end{eqnarray}$ のフレームじゃないと扱えない
+ multipleに適応するときの問題点１　<a href="https://www.codecogs.com/eqnedit.php?latex=2^i-1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2^i-1" title="2^i-1" /></a> のフレームじゃないと扱えない
 
 * 既存研究での取り組み２  
 
