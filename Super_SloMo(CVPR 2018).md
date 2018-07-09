@@ -14,7 +14,7 @@ VIDEO INTERPOLATION
 * 既存研究での取り組み１  
 出力としてsingle frameを予測するものが多い。  
  multipleに適応するときの問題点１　パラレルに扱えないから遅い  
- multipleに適応するときの問題点１　$2^{i}-1$のフレームじゃないと扱えない
+ multipleに適応するときの問題点１　$\begin{eqnarray} 2^{i}-1 \end{eqnarray}$ のフレームじゃないと扱えない
 
 * 既存研究での取り組み２  
 
