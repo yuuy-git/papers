@@ -1,5 +1,6 @@
 # How to Read a Paper
-  
+http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
+
 ## ABSTRACT
 研究者の人たちは論文を読むのに膨大な時間を費やしているが、その読み方についてなかなか教わる機会がなく、多くの時間を無駄にしている。そこで、この論文では効率的かつ実用的な "three-pass method" という論文の読み方を紹介する。また、その手法をliterature survey（文献調査）に活用する方法も紹介する。  
   
