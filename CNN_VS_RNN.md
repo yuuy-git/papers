@@ -13,3 +13,4 @@ sequence modeling
 なお、CNNはTCN(temporal convolutional network)を採用している模様。  
   
 これ詳しく読んだら、復習できそうなので掘り下げ論文に決定。
+ 
